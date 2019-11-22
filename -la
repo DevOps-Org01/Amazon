@@ -1,0 +1,125 @@
+[33mcommit 9f2851a579d57a89ad6b933a6781cb8baacaf0c4[m[33m ([m[1;36mHEAD -> [m[1;32mdevelopment[m[33m)[m
+Author: pavan <pavandasari2488@gmial.com>
+Date:   Fri Nov 22 13:21:37 2019 +0530
+
+    Revert "devops added"
+    
+    This reverts commit df4a368a57560e0ba8c6d2a3eb6e164d9bdba3fb.
+    
+            deleted:    devops.txt
+
+[33mcommit df4a368a57560e0ba8c6d2a3eb6e164d9bdba3fb[m
+Author: pavan <pavandasari2488@gmial.com>
+Date:   Fri Nov 22 13:20:36 2019 +0530
+
+    devops added
+
+[33mcommit 06be5944e0ac38111e4630704ad530ea355df4f5[m
+Author: pavan <pavandasari2488@gmial.com>
+Date:   Fri Nov 22 13:16:53 2019 +0530
+
+    Revert "merged1"
+    
+    This reverts commit bd2f7cf41fdb82ec2054a3f20873fe86bd7b0fee.
+    
+            modified:   newfile.txt
+
+[33mcommit bd2f7cf41fdb82ec2054a3f20873fe86bd7b0fee[m
+Author: pavan <pavandasari2488@gmial.com>
+Date:   Fri Nov 22 13:12:16 2019 +0530
+
+    merged1
+
+[33mcommit c5107efcc797951ef690260b0c369fce7658ca3c[m
+Author: pavan <pavandasari2488@gmial.com>
+Date:   Fri Nov 22 13:08:56 2019 +0530
+
+    merge commit
+
+[33mcommit 9e9eed7f9097daf25aeb205343d23920877a3eaa[m
+Author: pavan <pavandasari2488@gmial.com>
+Date:   Fri Nov 22 12:59:32 2019 +0530
+
+    new file
+
+[33mcommit e0547d4e0292763cdc7943ef47dd79111c5c4ca1[m
+Author: pavan <pavandasari2488@gmial.com>
+Date:   Fri Nov 22 12:55:08 2019 +0530
+
+    developmwnt
+
+[33mcommit ad0f7ad727efdb36f4b60c2e99597a48bf1de5c9[m[33m ([m[1;31mAmz/master[m[33m)[m
+Author: pavan <pavandasari2488@gmial.com>
+Date:   Fri Nov 22 12:52:56 2019 +0530
+
+    added gitignore
+
+[33mcommit bbaae0e48966dc3414efdf7be547a15e3f642580[m
+Author: pavan <pavandasari2488@gmial.com>
+Date:   Fri Nov 22 12:49:46 2019 +0530
+
+    gitignore file
+
+[33mcommit 06e8f5a56620e25738ab71c230632b549d1349b6[m
+Author: pavan <pavandasari2488@gmial.com>
+Date:   Fri Nov 22 12:41:17 2019 +0530
+
+    Revert "Revert "Revert "adding"""
+    
+    This reverts commit 8b5ddce43ab73a06c31802deeb9d21a38d4cfedf.
+
+[33mcommit 8b5ddce43ab73a06c31802deeb9d21a38d4cfedf[m
+Author: pavan <pavandasari2488@gmial.com>
+Date:   Fri Nov 22 12:34:56 2019 +0530
+
+    Revert "Revert "adding""
+    
+    This reverts commit e9633cc2e71c2136fcbc6b62371944679bb351a9.
+
+[33mcommit e9633cc2e71c2136fcbc6b62371944679bb351a9[m
+Author: pavan <pavandasari2488@gmial.com>
+Date:   Fri Nov 22 12:23:37 2019 +0530
+
+    Revert "adding"
+    
+    This reverts commit 666e0e1895148f0d84f6a2000cb45e168e00384d.
+
+[33mcommit 666e0e1895148f0d84f6a2000cb45e168e00384d[m
+Author: pavan <pavandasari2488@gmial.com>
+Date:   Fri Nov 22 12:19:42 2019 +0530
+
+    adding
+
+[33mcommit 892c1205f806fd9462092ca97fb835892c3cbe29[m
+Author: pavan <pavandasari2488@gmial.com>
+Date:   Fri Nov 22 11:41:33 2019 +0530
+
+    Revert "Reverted revert "f2 f3 added files""
+    
+    This reverts commit 8c0556542e180391c5a98c5794d122d2f58ac258.
+
+[33mcommit 8c0556542e180391c5a98c5794d122d2f58ac258[m
+Author: pavan <pavandasari2488@gmial.com>
+Date:   Fri Nov 22 11:39:14 2019 +0530
+
+    Reverted revert "f2 f3 added files"
+    
+    This reverts commit eb3e0de834acdb609fd842169b2ff35e723e07de.
+
+[33mcommit eb3e0de834acdb609fd842169b2ff35e723e07de[m
+Author: pavan <pavandasari2488@gmial.com>
+Date:   Fri Nov 22 11:36:23 2019 +0530
+
+    f2 f3 added files
+
+[33mcommit 152c6b9c2c41e4fbe3e4a7e3be2dc362905ca401[m
+Author: pavan <pavandasari2488@gmial.com>
+Date:   Thu Nov 21 14:45:42 2019 +0530
+
+    first modified file
+
+[33mcommit 0c359267b7164b72e4033d2f8c360838dfca4d1f[m
+Author: pavan2488 <pavandasari2488@gmail.com>
+Date:   Thu Nov 21 14:37:13 2019 +0530
+
+    first commit
