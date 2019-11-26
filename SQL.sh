@@ -1,1 +1,2 @@
-hai welcome to SQl 
+hai welcome to SQl
+java also is there
